@@ -39,3 +39,5 @@ cd sd4/TIL # 특정 폴더로 바로 이동 가능
 ```
 
 `mkdir` : make directory. 폴더 만들어줘. 어떤폴더? 목적어 필요.
+
+
