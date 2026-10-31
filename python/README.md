@@ -8,6 +8,10 @@
 - [함수의 인수 심화: *, **, 기본값 함정](function-arguments.md) · 2026-10-27
 - [lambda와 함수를 값으로 넘기기](lambda.md) · 2026-10-27
 - [클래스와 인스턴스: 틀, 속성, `__init__`, `self`](classes.md) · 2026-10-28
+- [객체가 다른 객체를 담는다: Point와 Circle](class-objects.md) · 2026-10-29
+- [클래스 변수와 `@classmethod`: 틀에 있는 것과 틀에서 부르는 것](class-members.md) · 2026-10-30
+- [상속: 부모의 것을 물려받는 자식 틀](inheritance.md) · 2026-10-30
+- [추상화와 다형성: 약속만 정하는 부모](abstraction.md) · 2026-10-31
 
 ## 예정
 
